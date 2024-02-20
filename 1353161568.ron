@@ -1,0 +1,10 @@
+(
+    seed: 1353161568,
+    gen_opts: (
+        x_lg: 10,
+        y_lg: 10,
+        scale: 2.368290163786791,
+        map_kind: Circle,
+        erosion_quality: 1.0,
+    ),
+)
