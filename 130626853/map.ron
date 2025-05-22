@@ -1,0 +1,13 @@
+(
+    version: 2,
+    name: "Big",
+    gen_opts: Some((
+        x_lg: 12,
+        y_lg: 12,
+        scale: 2.0,
+        map_kind: Circle,
+        erosion_quality: 1.0,
+    )),
+    seed: 130626853,
+    day_length: 30.0,
+)
